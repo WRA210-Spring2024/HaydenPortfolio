@@ -3,11 +3,16 @@ body {
   }
   
   h1 {
-    color: teal;
+    color: cyan;
     text-align: center;
   }
   
+  h2 {
+    color: cyan;
+    text-align: center;
+  }
+
   p {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Kode Mono';
     font-size: 20px;
   }
