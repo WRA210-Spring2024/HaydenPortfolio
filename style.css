@@ -1,16 +1,16 @@
 body {
-    background-color: black;
+    background-color: lightgray;
     color:black;
   }
   
   h1 {
-    color: magenta;
+    color: indigo;
     text-align: center;
     font-family: "Kode Mono";
   }
   
   h2 {
-    color: magenta;
+    color: teal;
     text-align: center;
     font-family: "Kode Mono";
   }
@@ -18,10 +18,10 @@ body {
   p {
     font-family: "Kode Mono";
     font-size: 20px;
-    color:cyan
+    color:black
   }
 
   a {
-    color: cyan;
+    color: black;
     font-family: "Kode Mono";
   }
